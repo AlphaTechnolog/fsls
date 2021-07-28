@@ -1,7 +1,7 @@
 // Show the list of files in a passed directory path
 #include <iostream>
-#include <vector>
 #include <string>
+#include <vector>
 #include <dirent.h>
 
 using namespace std;
